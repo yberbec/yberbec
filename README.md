@@ -9,13 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Gmail" width="22px" src="https://pic.onlinewebfonts.com/thumbnails/icons_45572.svg" />](mailto:yberbeche@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yahya-berbeche-227a70197/)
 
-[<img align="left" alt="YahyaGeek | Gmail" width="22px" src="https://pic.onlinewebfonts.com/thumbnails/icons_45572.svg" />][gmail]
-
-[<img align="left" alt="YahyaGeek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-[gmail]: mailto:yberbeche@gmail.com
-[linkedin]: https://www.linkedin.com/in/yahya-berbeche-227a70197/
+<br>
