@@ -1,4 +1,4 @@
-### Hi there, I'm Yahya - Berbeche [YahyaGeek] 👋
+### Hi there, I'm Yahya - Berbeche 👋
 
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on a Backend & FrontEnd Applications [Fullstack]!
