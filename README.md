@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Backend & FrontEnd Applications [Fullstack]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other project developpers
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
